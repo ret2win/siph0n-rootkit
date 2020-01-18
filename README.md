@@ -23,6 +23,7 @@ I really don't give two shits what you do with this rootkit it's pretty shit lol
 - Client to handle Reptile Shell
 - Shell connect back each X times (not default)
    
+#
 - Install (If you can't figure this out then you're a brain dead troglidyte)
 
 apt-get install linux-headers-$(uname -r)
@@ -36,7 +37,7 @@ cd Reptile
 ./setup.sh remove
 
 - Some shit are based on other rootkits. 
-
+#
 - Creds: apt
 - XMPP: apt1337@creep.im
 
